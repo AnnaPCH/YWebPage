@@ -1,0 +1,8 @@
+nav {
+  background-image: url(pexels-pix.jpg);
+}
+
+.nav-link,
+.navbar-brand {
+  color: #000000;
+}
