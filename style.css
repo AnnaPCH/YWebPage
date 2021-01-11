@@ -20,9 +20,16 @@ nav {
   display: inline-flex;
 }
 
+.contact-header {
+  padding: 4px;
+  margin: 20px;
+}
 .contact {
   padding: 4px;
-  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
 }
 
 .fieldsoA {
@@ -32,7 +39,10 @@ nav {
 
 #fields {
   padding: 4px;
-  font-size: x-large;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
 }
 
 .underline {
@@ -41,4 +51,20 @@ nav {
 
 .aboutme {
   margin-top: 10px;
+}
+
+.aboutme-header,
+.articles-header {
+  margin-top: 10px;
+  padding: 4px;
+}
+
+.home {
+  margin: 10px;
+  padding: 4px;
+}
+
+.emoji {
+  color: #212529;
+  font-family: Arial, Helvetica, sans-serif;
 }
