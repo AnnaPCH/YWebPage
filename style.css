@@ -1,9 +1,12 @@
 nav {
-  background-image: url(pexels-pix.jpg);
   padding: 20px;
   margin-top: 100px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Source Serif Pro", serif;
+  background-color: #cfdac8;
+}
+body {
+  font-family: "Source Serif Pro", serif;
 }
 
 .nav-link {
@@ -32,7 +35,8 @@ nav {
   color: #212529;
 }
 
-.fieldsoA {
+.fieldsoA,
+.aboutme-header {
   padding: 4px;
   margin: 20px;
 }
@@ -45,22 +49,22 @@ nav {
   color: #212529;
 }
 
-.underline {
-  text-decoration-line: underline;
-}
-
 .aboutme {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
-.aboutme-header,
-.articles-header {
+.aboutme-header {
   margin-top: 10px;
   padding: 4px;
 }
+.articles-header {
+  margin-top: 20px;
+  padding: 4px;
+  text-align: center;
+}
 
 .home {
-  margin: 10px;
+  margin: 20px;
   padding: 4px;
 }
 
