@@ -7,6 +7,8 @@ nav {
 }
 body {
   font-family: "Source Serif Pro", serif;
+  color: #000000;
+  margin: 100px;
 }
 
 .nav-link {
@@ -23,52 +25,39 @@ body {
   display: inline-flex;
 }
 
-.contact-header {
-  padding: 4px;
-  margin: 20px;
-}
 .contact {
   padding: 4px;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
 }
 
 .fieldsoA,
-.aboutme-header {
+.aboutme-header,
+.contact-header,
+.aboutme-header,
+.home {
   padding: 4px;
   margin: 20px;
 }
 
-#fields {
+.fields {
   padding: 4px;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
 }
 
 .aboutme {
   margin-top: 20px;
 }
 
-.aboutme-header {
-  margin-top: 10px;
-  padding: 4px;
-}
 .articles-header {
   margin-top: 20px;
   padding: 4px;
   text-align: center;
 }
 
-.home {
-  margin: 20px;
-  padding: 4px;
-}
-
 .emoji {
-  color: #212529;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Source Serif Pro", serif;
 }
