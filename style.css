@@ -3,12 +3,23 @@ nav {
   margin-top: 100px;
   text-align: center;
   font-family: "Source Serif Pro", serif;
-  background-color: #cfdac8;
+  background-color: #7c9473;
 }
 body {
   font-family: "Source Serif Pro", serif;
   color: #000000;
   margin: 100px;
+  background-color: #cfdac8;
+}
+
+.homephotos {
+  margin-top: 20px;
+  padding: 4px;
+  border-radius: 20px;
+}
+.amphoto {
+  margin-top: 20px;
+  width: 1287px;
 }
 
 .nav-link {
@@ -35,7 +46,6 @@ body {
 .fieldsoA,
 .aboutme-header,
 .contact-header,
-.aboutme-header,
 .home {
   padding: 4px;
   margin: 20px;
