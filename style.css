@@ -1,6 +1,6 @@
 nav {
   padding: 20px;
-  margin-top: 100px;
+  margin-top: 20px;
   text-align: center;
   font-family: "Source Serif Pro", serif;
   background-color: #7c9473;
@@ -8,12 +8,12 @@ nav {
 body {
   font-family: "Source Serif Pro", serif;
   color: #000000;
-  margin: 100px;
   background-color: #cfdac8;
+  margin: 10px;
 }
 
 .homephotos {
-  margin-top: 20px;
+  margin: 20px 10px;
   padding: 4px;
   border-radius: 20px;
 }
@@ -70,4 +70,36 @@ body {
 
 .emoji {
   font-family: "Source Serif Pro", serif;
+}
+
+.logo {
+  padding: 60px 40px;
+  text-align: center;
+  background: rgb(14, 14, 14);
+  color: #f9f9f9;
+
+  font-weight: 200;
+  font-family: "Times New Roman", Times, serif;
+}
+.logo h1 {
+  font-weight: lighter;
+}
+.logo h2 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #f9f9f9;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.bigger-letters {
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 50;
+}
+
+.text-between-line {
+  font-weight: lighter;
+  background-color: rgb(14, 14, 14);
+  padding: 0 10px;
 }
