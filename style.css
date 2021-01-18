@@ -38,7 +38,7 @@ body {
 
 .contact {
   padding: 4px;
-  font-size: 1rem;
+  font-size: 24px;
   font-weight: 400;
   line-height: 1.5;
 }
@@ -66,6 +66,24 @@ body {
   margin-top: 20px;
   padding: 4px;
   text-align: center;
+}
+.links {
+  margin-top: 20px;
+  padding: 4px;
+  color: rgb(80, 30, 61);
+}
+
+.links a {
+  text-decoration: none;
+  color: rgb(53, 3, 34);
+  font-size: large;
+}
+.links a :active {
+  text-decoration: underline;
+}
+.links a[tabindex]:focus {
+  text-decoration: underline;
+  outline: none;
 }
 
 .emoji {
@@ -102,4 +120,16 @@ body {
   font-weight: lighter;
   background-color: rgb(14, 14, 14);
   padding: 0 10px;
+}
+
+.foaphoto,
+.links-photo {
+  margin-top: 20px;
+  max-height: 400px;
+  max-width: 1287px;
+}
+
+.contact-img {
+  max-width: 550px;
+  margin: 20px auto;
 }
