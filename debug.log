@@ -3,3 +3,4 @@
 [0111/202114.006:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
 [0112/080412.438:ERROR:settings.cc(320)] Settings magic is not 1129342067
 [0114/144302.303:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
+[0205/210245.426:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
